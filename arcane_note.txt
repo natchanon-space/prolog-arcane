@@ -1,0 +1,86 @@
+Project Mile Stones
+[x] Basic information
+[x] Family Relations
+[x] Occupation Relations
+[ ] Enemy Relations
+
+Main Characters
+
+sumpsnipe = Group of orphan kid??
+
+[B, F] Vi (Zaun) - Vigilante
+[B, F] Silco (Zaun) - Chem-Baron, Industrialist, Drug Lord
+[B, F] Vander (Zaun) - Bartender
+[B, F] Jinx (Powder) (Zaun) -Criminal
+[B, F] Ekko (Zaun) - Firelights, Inventor, Gang Leader, Vigilante, sumpsnipe
+
+[B, F] Jayce (Piltover) - Inventor, Councilor, Kiramman's clan
+[B, F] Viktor (Piltover) - Inventor
+[B, F] Mel Medarda (Piltover) - Councilor, Aristocrat
+[B, F] Caitlyn (Piltover) - Enforcer, Kiramman's clan
+[B, -] Heimerdinger (Piltover) - Inventor, Scientist, Mechanic, Profressor
+[B, -] Singed (Piltover) - Alchemist, Inventor, Doctor
+
+Supporting Characters
+
+== Councilor
+[B] Bolbok (Councilor) https://leagueoflegends.fandom.com/wiki/Bolbok
+[B] Cassandra (Mrs.Kiramman Cait's mother and councilor)
+[B] Salo (short blonde-hair councilor)
+[B] Hoskel (Stupid councilor with kid puzzle toy) (no infomation in wiki)
+[B] Shoola (Black gold-neck female counilor) (no information in wiki)
+
+== Enforcer https://leagueoflegends.fandom.com/wiki/Piltover_Wardens#Members
+[B] Marcus (That bad police working with Silco)
+[B] Harold (Enforcer stopped from Mel prevented from catching Jayce and Viktor at Heimer's lab)
+[B] Grayson (dead Enforcer cooperating with Vander) (no information in wiki)
+[B] Sergeant Billingsworth (Another enforcer) (no information in wiki)
+
+== Chem-Baron https://leagueoflegends.fandom.com/wiki/Nobility/Zaun
+[B] Chross (old man chem-baron)
+[B] Finn (Dead Male Skinny Chem-Baron)
+[B] Margot (poison ivy? chem-baron)
+[B] Renni (Female Chem-baron who lose her child)
+[B] Smeech (yordle chem-baron)
+
+== ETC Zaun
+[B] Deckard (first shimmer transformer) (no information in wiki)
+[B] Claggor (Vi and Jinx fatty dead friend)
+[B] Mylo (Vi and Jinx skinny dead friend)
+[B] Sevika (Silco's righthand) (not chem baron)
+[B] Benzo (Vander's friend and Pawn shop owner) (no information in wiki)
+
+== ETC Piltover
+[B] Amara (Merchant dealing offer with Jayce and Mel at dance party~~)
+[B] Ambessa Medarda (Mel's Mother)
+[B] Elora (right-hand assistant of Mel)
+[B] Tobias (Mr.Kiramman Cait's father)
+[B] Ren (Marcus' daughter) (no information in wiki)
+[B] Sky (in love with Viktor but sadly accidently killed by him) (no information in wiki)
+[B] Ximena Talis (Jayce's Mother) (no information in wiki)
+
+- Pim (Smily Mask Woman??) (no infomation in wiki)
+- Bolobok (Maybe same as Bolbok)
+- Warden (This should be jobs)
+- Enforcer (This should be jobs)
+- Verne (Some Piltover guy) (no infomation in wiki)
+- Apothecary (Maybe the medic that selling drug created from shimmer)
+- Custom Agent (piltover job. This should be job)
+- Gorgeous Man (Mel's mom boi) (no information in wiki)
+- Duty Captain (Just Another Enforcer)
+- Lieutenant Eve (no information in wiki)
+- Jules (Very first episode bloody trader troubled with vander's folk) (no information in wiki)
+- Master Crafter (I HAVE NO IDEA WHO HE IS) (no information in wiki)
+- Huck (Vamder's friend Shimmer Addict Glasses Guy) (no information in wiki)
+- Punk (???) (no information in wiki)
+- Thieram (Bartender Silco's worker) (no information in wiki)
+- Burly Henchman (Silco's undering) (no information in wiki)
+- Babette (Goblin-like Vander's friend)
+
+Council 
+https://ag.hyperxgaming.com/article/12405/arcane-council-members-what-we-know-about-piltovers-rulers
+
+Q???
+
+Feature
+[ ] Do we need Alias name (Of course!)
