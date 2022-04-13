@@ -2,7 +2,7 @@ Project Mile Stones
 [x] Basic information
 [x] Family Relations
 [x] Occupation Relations
-[ ] Enemy Relations
+[x] Enemy Relations
 
 Main Characters
 
@@ -83,4 +83,4 @@ https://ag.hyperxgaming.com/article/12405/arcane-council-members-what-we-know-ab
 Q???
 
 Feature
-[ ] Do we need Alias name (Of course!)
+[ ] Do we need Alias name (Of course!) ???
