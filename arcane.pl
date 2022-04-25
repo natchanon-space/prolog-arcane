@@ -361,8 +361,8 @@ work_for(X, Y) :-
 
 % Enemy Relations
 % possible enemy case 1
-possible_enemy(X, Y) :- occupation(X, vigilante), currently_work(Y, chem_barons).
-possible_enemy(X, Y) :- currently_work(X, chem_barons), occupation(Y, vigilante).
+possible_enemy(X, Y) :- occupation(X, vigilante), work_at(Y, chem_barons).
+possible_enemy(X, Y) :- work_at(X, chem_barons), occupation(Y, vigilante).
 % possible enemy case 2
 possible_enemy(X, Y) :- 
     occupation(X, vigilante), 
